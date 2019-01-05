@@ -1,0 +1,9 @@
+Package: bggrecom
+Title: Board Game Geek user toolkit
+Version: 0.0.0.9000
+Authors@R: person("Damian", "Zajac", email = "dmnzjc@gmail.com", role = c("aut", "cre"))
+Description: This package includes tools which use Board Game Geek data to help you better understand your board gaming tastes.
+Depends: R (>= 3.3.3)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
